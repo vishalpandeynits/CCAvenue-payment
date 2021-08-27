@@ -1,9 +1,3 @@
-# python3-ccavenue
+# CCAvenue-payment
 
-Python code to intergrate CC Avenue payment gateway (Django example)
-
-### Requirement
-##### python3+
-
-
-
+This application is built for integration of CCAvenue payment gateway with a django-website.
